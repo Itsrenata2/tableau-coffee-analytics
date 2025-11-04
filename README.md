@@ -37,7 +37,7 @@ During this project, I practiced and learned several Tableau features and data a
 2. Open it in Tableau Desktop or Tableau Public
 
 ## 🌐 Tableau Public Link
-🔗 [View Interactive Dashboard on Tableau Public]([https://public.tableau.com/](https://public.tableau.com/views/Coffee_Shop_Project/Dashboard1?:language=pt-BR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Coffee_Shop_Project/Dashboard1?:language=pt-BR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 💬 Author
 Created by **Renata Silva**  
