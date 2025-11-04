@@ -7,6 +7,7 @@ The goal of this project was to **understand customer behavior and sales pattern
 - The most popular coffee types  
 - Peak sales hours and months  
 - Preferred payment methods  
+
 These insights can help improve stock management, pricing, and marketing strategies.
 
 ## 📊 Overview
